@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://TheoBurnel.github.io/Copte13-v2/annotations/f24.json", "https://TheoBurnel.github.io/Copte13-v2/annotations/f26.json", "https://TheoBurnel.github.io/Copte13-v2/annotations/f50.json" ],
+  "otherContent" : [ "https://TheoBurnel.github.io/Copte13-v2/annotations/f24.json", "https://TheoBurnel.github.io/Copte13-v2/annotations/f26.json", "https://TheoBurnel.github.io/Copte13-v2/annotations/f50.json", "https://TheoBurnel.github.io/Copte13-v2/annotations/f69.json" ],
   "@id" : "https://TheoBurnel.github.io/Copte13-v2/annotations/collection.json",
   "label" : "All annotations loaded in TheoBurnel/Copte13-v2 project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
