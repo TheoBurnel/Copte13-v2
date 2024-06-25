@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://TheoBurnel.github.io/Copte13-v2/manifests/manifest.json",
     "label" : "BnF. Département des Manuscrits. Copte 13"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://TheoBurnel.github.io/Copte13-v2/manifests/manifest2.json",
+    "label" : "BnF. Département des Manuscrits. Copte 13"
   } ]
 }
